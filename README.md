@@ -26,30 +26,55 @@ Since the adversary is made to believe that the password is a set of images, itâ
 
 ## Screenshots
 Welcome Page
-![](screenshots/gpwd1.png)
+<div align="center">
+    <img src="/screenshots/gpwd1.png" width="400px"</img> 
+</div>
+
 <br> <br>
 Sign Up Page
+<div align="center">
+    <img src="/screenshots/gpwd2.png" width="400px"</img> 
+</div>
 ![](screenshots/gpwd2.png)
 <br>
-![](screenshots/gpwd3.png)
+<div align="center">
+    <img src="/screenshots/gpwd3.png" width="400px"</img> 
+</div>
+   
+
 <br>
 After logging in
-![](screenshots/gpwd4.png)
+<div align="center">
+    <img src="/screenshots/gpwd4.png" width="400px"</img> 
+</div>
+
 <br> <br>
 Password Reset Page
-![](screenshots/gpwd5.png)
+<div align="center">
+    <img src="/screenshots/gpwd5.png" width="400px"</img> 
+</div>
 <br>
-![](screenshots/gpwd6.png)
+<div align="center">
+    <img src="/screenshots/gpwd6.png" width="400px"</img> 
+</div>
 <br>
 Mail received with password reset link
-![](screenshots/gpwd7.png)
+<div align="center">
+    <img src="/screenshots/gpwd7.png" width="400px"</img> 
+</div>
 <br>
-![](screenshots/gpwd8.png)
+<div align="center">
+    <img src="/screenshots/gpwd8.png" width="400px"</img> 
+</div>
 <br> <br>
 Account blocked due to multiple Failed attempts
-![](screenshots/gpwd9.png)
+<div align="center">
+    <img src="/screenshots/gpwd9.png" width="400px"</img> 
+</div>
 <br> Notification mail received of Account blockage
-![](screenshots/gpwd10.png)
+<div align="center">
+    <img src="/screenshots/gpwd10.png" width="400px"</img> 
+</div>
 
 <br>
 
